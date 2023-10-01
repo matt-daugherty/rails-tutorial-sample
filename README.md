@@ -41,3 +41,8 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
+
+## Deploying
+
+https://blooming-depths-24350-0216fdcb942c.herokuapp.com/ 
+https://git.heroku.com/blooming-depths-24350.git
